@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mohammad
 ![](https://media.licdn.com/dms/image/D5616AQHCz2z7ZZDRVQ/profile-displaybackgroundimage-shrink_350_1400/0/1679103900174?e=1684368000&v=beta&t=fbrJWQ4a-NdK_0DxoP0EuVwimlENgcL_n5cFUSOD2-E)
 
-Hello, I am a front-end web developer with a passion for building beautiful and functional web applications. I have experience working with modern web technologies to create high-quality and responsive websites. My expertise lies in developing front-end applications using a range of frameworks and libraries.
+Hello, I am a full stack web developer with a passion for building beautiful and functional web applications. I have experience working with modern web technologies to create high-quality and responsive websites. My expertise lies in developing front-end applications using a range of frameworks and libraries.
 
 As a quick learner, I am always seeking out new skills and technologies to incorporate into my projects. I am constantly looking for new challenges and opportunities to grow my skills, and I am not afraid to step out of my comfort zone to tackle new problems. My goal is to create innovative solutions that provide a seamless user experience and exceed client expectations.
 
