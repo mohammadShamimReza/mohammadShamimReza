@@ -13,7 +13,6 @@ Skills:  javascript | typesctipt | MERN | nextjs | gatsbyjs | strapi
 - 📫 How to reach me: email: mohammadshamimreza23393@gmail.com 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadShamimReza&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mohammadShamimReza)  
 
