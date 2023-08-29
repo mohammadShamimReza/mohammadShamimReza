@@ -7,7 +7,7 @@ As a quick learner, I am always seeking out new skills and technologies to incor
 
 I value clean and maintainable code and believe in the importance of writing code that is both scalable and easy to understand. Collaboration and teamwork are essential to me, and I enjoy working with others to achieve a common goal. Whether you need help with a project or have any questions, feel free to reach out and connect with me. I'm always eager to learn more and contribute to exciting projects.
 
-Skills:  javascript | typesctipt | MERN | nextjs | gatsbyjs | strapi
+Skills:  MERN | Backend | 
 
 - 💬 Ask me about the MERN stack 
 - 📫 How to reach me: email: mohammadshamimreza23393@gmail.com 
