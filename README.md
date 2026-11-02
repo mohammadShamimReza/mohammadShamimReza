@@ -13,7 +13,7 @@ Passionate about solving real-world problems through technology, building scalab
 
 ---
 
-## 💻 Technical Expertise
+##  Technical Expertise
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Shadcn/ui, TanStack Query, TanStack Table, Zustand, Zod
 
@@ -33,7 +33,7 @@ Passionate about solving real-world problems through technology, building scalab
 
 ---
 
-## 🚀 Featured Product — Fitraat Focus
+##  Featured Product — Fitraat Focus
 
 **Fitraat Focus** is a purpose-driven productivity ritual app that helps people overcome digital distractions, reach a flow state, and focus on what truly matters in their lives.
 
@@ -41,11 +41,11 @@ Passionate about solving real-world problems through technology, building scalab
 
 | Platform | Link |
 |:---|:---|
-| 🌐 Portfolio | [fitraatfocus.com](https://fitraatfocus.com) |
-| 💻 Web App | [app.fitraatfocus.com](https://app.fitraatfocus.com) |
-| 🤖 Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.fitraatfocus) |
-| 🍎 iPhone | [Coming Soon](https://fitraatfocus.com/#iphone) |
-| 🎯 Purpose | [purpose.fitraatfocus.com](https://purpose.fitraatfocus.com) |
+|  Portfolio | [fitraatfocus.com](https://fitraatfocus.com) |
+|  Web App | [app.fitraatfocus.com](https://app.fitraatfocus.com) |
+|  Android | [Google Play Store](https://play.google.com/store/apps/details?id=com.fitraatfocus) |
+|  iPhone | [Coming Soon](https://fitraatfocus.com/#iphone) |
+|  Purpose | [purpose.fitraatfocus.com](https://purpose.fitraatfocus.com) |
 
 ---
 
